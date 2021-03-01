@@ -1,0 +1,19 @@
+{
+  "name": "11-express-note-taker",
+  "version": "1.0.0",
+  "description": "An application that can be used to write, save, and delete notes using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Litabeach/Express-Note-Taker.git"
+  },
+  "author": "Lita Beach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Litabeach/Express-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Litabeach/Express-Note-Taker#readme"
+}
