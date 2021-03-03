@@ -10,7 +10,7 @@ module.exports = function (app) {
 
     // If no matching route is found default to home 
     //changed "*" to "/" for heroku deployment
-    app.get("/", function (req, res) {
+    app.get("*", function (req, res) {
         res.sendFile(path.join(__dirname, "../../public/index.html"));
     });
 
