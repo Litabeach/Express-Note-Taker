@@ -4,7 +4,7 @@
 
 An application that can be used to write, save, and delete notes using express
 
-Published at: heroku link will go here.
+Published at: https://afternoon-citadel-59932.herokuapp.com/
 
 ## Table of Contents
 
